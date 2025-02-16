@@ -31,6 +31,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
+## 💻 Languages and Tools
+
+### Frontend
+- HTML
+- JavaScript
+
+### Backend
+- Python
+- C
+
+### Others
+- Notion
+- VS Code
+- Git
+- GitHub
+
 ## 🐍 Snake Animation
 
 <p align="center">
