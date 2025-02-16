@@ -20,7 +20,7 @@
 ## 📈 GitHub Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight)
 
-<h2 align="center">💻 Languages and Tools</h2>
+<h2>💻 Languages and Tools</h2>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
