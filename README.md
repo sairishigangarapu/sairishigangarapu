@@ -1,7 +1,3 @@
-Here's the updated README with GitHub and LinkedIn on the same line:  
-
----
-
 # Hi there, I'm Sai Rishi Gangarapu 👋  
 
 ## 🚀 About Me  
