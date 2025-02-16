@@ -21,9 +21,9 @@
 
 ### My GitHub Repositories
 [![The-Hospital-Filling-Form](https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=The-Hospital-Filling-Form&theme=tokyonight)](https://github.com/sairishigangarapu/The-Hospital-Filling-Form)
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=Repository-2&theme=tokyonight)](https://github.com/sairishigangarapu/Repository-2)
-[![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=Repository-3&theme=tokyonight)](https://github.com/sairishigangarapu/Repository-3)
-[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=Repository-4&theme=tokyonight)](https://github.com/sairishigangarapu/Repository-4)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=Repository-2&theme=tokyonight)]([https://github.com/sairishigangarapu/Repository-2](https://github.com/sairishigangarapu/A-calculator))
+[![SPOTIFAI](https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=Repository-3&theme=tokyonight)]([https://github.com/sairishigangarapu/Repository-3](https://github.com/sairishigangarapu/Confluence))
+
 
 ➡️ Check out more projects on [GitHub](https://github.com/sairishigangarapu?tab=repositories)
 
