@@ -1,4 +1,4 @@
-Your GitHub profile README is already well-structured and engaging, but adding a "Frameworks" section will enhance clarity and organization. Below is your updated README with the requested changes:
+Here's the updated README with GitHub and LinkedIn on the same line:  
 
 ---
 
@@ -12,8 +12,14 @@ Your GitHub profile README is already well-structured and engaging, but adding a
 - 📫 Reach me at **sairishigangarapu@gmail.com**  
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-rishi-gangarapu-770a08321/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairishigangarapu)  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/sai-rishi-gangarapu-770a08321/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
+  <a href="https://github.com/sairishigangarapu">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>  
+</p>  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight)  
