@@ -25,14 +25,12 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sairishigangarapu&theme=onedark&no-frame=true&margin-w=15)
 
-## 📈 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight)
-
 ## 💻 Languages and Tools
 
 ### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
