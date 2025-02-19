@@ -4,7 +4,7 @@
 - 🎓 First-year Computer Science student at PES University
 - 💡 Passionate about software development, AI, and backend engineering
 - 💻 Currently working on integrating OpenAI and Spotify API into a Flask web app
-- 🌱 Learning Pytorch and C 
+- 🌱 Learning ML Basics and C 
 - 📫 Reach me at **sairishigangarapu@gmail.com**
 
 ## 🔗 Connect with Me
