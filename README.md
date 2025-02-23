@@ -28,16 +28,21 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
+
 ## 🔥 GitHub Activity
 <p align="center">
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairishigangarapu&theme=tokyo-night" alt="GitHub Activity Graph" />
-  ---
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=sairishigangarapu&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <!-- Recent Activity -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairishigangarapu&theme=tokyonight" alt="GitHub Profile Summary" />
-  ---
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairishigangarapu&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ## 🏆 GitHub Trophies  
