@@ -32,10 +32,10 @@
 <p align="center">
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairishigangarapu&theme=tokyo-night" alt="GitHub Activity Graph" />
-  
+  ---
   <!-- Recent Activity -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairishigangarapu&theme=tokyonight" alt="GitHub Profile Summary" />
-  
+  ---
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
