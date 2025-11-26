@@ -16,7 +16,6 @@
   - **Stiotichisat Algorithm** – statistical + heuristic optimization method  
   - **ReRanked Algorithm–based Search Engine** focused on contextual ranking  
   - Netflix-style recommendation engine using **Latent Factor Models**, **Matrix Factorization with Bias Terms**, and **Stochastic Gradient Descent (SGD)**  
-  - OpenAI + Spotify integrated Flask application  
   - UI recreations and frontend component engineering  
 - Strengthening foundations in DSA, ML math, system design, and low-level programming  
 - Contact: **sairishigangarapu@gmail.com**
