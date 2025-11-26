@@ -13,10 +13,10 @@
 - Exploring backend development, AI systems, and full-stack engineering  
 - Currently developing:  
   - Full-stack real-time **Stock Monitoring Platform**  
-  - **Stiotichisat Algorithm** – statistical + heuristic optimization method  
-  - **ReRanked Algorithm–based Search Engine** focused on contextual ranking  
+    - UI recreations and frontend component engineering  
   - Netflix-style recommendation engine using **Latent Factor Models**, **Matrix Factorization with Bias Terms**, and **Stochastic Gradient Descent (SGD)**  
-  - UI recreations and frontend component engineering  
+    - **Stochastic Gradient Descent** – statistical + heuristic optimization method  
+    - **ReRanked Algorithm–based Search Engine** focused on contextual ranking  
 - Strengthening foundations in DSA, ML math, system design, and low-level programming  
 - Contact: **sairishigangarapu@gmail.com**
 
