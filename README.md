@@ -37,10 +37,12 @@
 ---
 
 ## 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
 
 <p align="center">
   <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=sairishigangarapu&theme=tokyo-night"/>
