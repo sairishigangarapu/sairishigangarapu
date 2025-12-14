@@ -73,13 +73,12 @@ I value **correctness, clarity, and performance** over buzzwords.
 
 ---
 
-## 🧠 Language Composition (What I Actually Code In)
-
 ## 🧠 Language Composition (Actual Usage)
-
 <p align="center">
-  <img width="95%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sairishigangarapu&theme=tokyonight" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
   <img width="95%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairishigangarapu&theme=tokyonight" />
 </p>
