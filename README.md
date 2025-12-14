@@ -1,7 +1,4 @@
-<!-- ===== BANNER (REMOVE IF NOT HOSTED YET) ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sairishigangarapu/sairishigangarapu/main/assets/github-banner.png" width="100%" />
-</p>
+<!-- ===== BANNER ===== -->
 
 <h1 align="center">Sai Rishi Gangarapu</h1>
 <h3 align="center">Software Developer • Backend & AI Enthusiast</h3>
@@ -79,40 +76,55 @@ I value **correctness, clarity, and performance** over buzzwords.
 ## 🧠 Language Composition (What I Actually Code In)
 
 <p align="center">
-  <img width="95%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sairishigangarapu&theme=tokyonight" />
-  <img width="95%"
+    <img width="95%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairishigangarapu&theme=tokyonight" />
 </p>
 
 ---
 
-## ⭐ Featured Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=Signalist&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=online-chess-game&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=DolfynBrands&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairishigangarapu&repo=WebPages&theme=tokyonight" />
-</p>
-
----
 
 ## 🧰 Tech Stack
 
-**Languages**  
-Python · C · C++ · JavaScript
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Frameworks & Tools**  
-Next.js · Node.js · Flask · Django  
-MongoDB · SQL · Firebase  
-Git · GitHub · VS Code · Notion
+### 🧩 Frameworks & Runtime
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
-**ML & Data**  
-NumPy · Pandas · Scikit-learn · Matplotlib
+### 🗄️ Databases & Backend Services
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🤖 ML & Data
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 
 ---
 
@@ -120,10 +132,10 @@ NumPy · Pandas · Scikit-learn · Matplotlib
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-rishi-gangarapu-770a08321/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/sairishigangarapu">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
