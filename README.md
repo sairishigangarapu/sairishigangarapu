@@ -1,5 +1,6 @@
+<!-- ===== BANNER (REMOVE IF NOT HOSTED YET) ===== -->
 <p align="center">
-  <img src="https://i.ibb.co/9H1qbvN/github-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/sairishigangarapu/sairishigangarapu/main/assets/github-banner.png" width="100%" />
 </p>
 
 <h1 align="center">Sai Rishi Gangarapu</h1>
@@ -20,18 +21,19 @@ I care about:
 - Writing **clean backend logic**
 - Designing **scalable systems**
 - Using **AI/ML where it actually makes sense**
-- Making products that feel **fast, simple, and reliable**
+- Building products that feel **fast, simple, and reliable**
 
-I like understanding *how things work under the hood* — from databases and APIs to algorithms and system design.
+I like understanding *how things work under the hood* — from APIs and databases  
+to algorithms and system design.
 
-📩 **Email:** sairishigangarapu@gmail.com  
+📩 **Email:** sairishigangarapu@gmail.com
 
 ---
 
 ## 🛠️ What I’m Currently Building
 
 ### 🔹 Signalist — Real-Time Stock Intelligence Platform
-A system that tracks market data and simulates stock baskets using AI signals.
+Tracks market data and simulates stock baskets using AI signals.
 
 **Tech:** Next.js · MongoDB · Inngest · TradingView  
 **Focus:** async workflows, event-driven design, data pipelines
@@ -42,12 +44,12 @@ A system that tracks market data and simulates stock baskets using AI signals.
 A personalized recommendation system built from scratch.
 
 **Tech:** Python · NumPy · Scikit-learn  
-**Concepts:** Matrix Factorization, Bias Terms, SGD optimization
+**Concepts:** Matrix Factorization, Bias Terms, SGD
 
 ---
 
 ### 🔹 Contextual Re-Ranked Search System
-Improves search relevance using a mix of ML scoring + heuristic ranking.
+Improves search relevance using a mix of ML scoring and heuristic ranking.
 
 **Focus:** relevance, ranking logic, hybrid ML systems
 
@@ -59,7 +61,7 @@ Improves search relevance using a mix of ML scoring + heuristic ranking.
 - Data structures & algorithms  
 - Machine learning fundamentals  
 - Database modeling  
-- System design (learning actively)
+- System design (actively improving)
 
 I value **correctness, clarity, and performance** over buzzwords.
 
@@ -68,8 +70,8 @@ I value **correctness, clarity, and performance** over buzzwords.
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -77,8 +79,10 @@ I value **correctness, clarity, and performance** over buzzwords.
 ## 🧠 Language Composition (What I Actually Code In)
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sairishigangarapu&theme=tokyonight" />
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairishigangarapu&theme=tokyonight" />
+  <img width="95%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sairishigangarapu&theme=tokyonight" />
+  <img width="95%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairishigangarapu&theme=tokyonight" />
 </p>
 
 ---
@@ -99,16 +103,16 @@ I value **correctness, clarity, and performance** over buzzwords.
 
 ## 🧰 Tech Stack
 
-### Languages
-- Python · C · C++ · JavaScript
+**Languages**  
+Python · C · C++ · JavaScript
 
-### Frameworks & Tools
-- Next.js · Node.js · Flask · Django  
-- MongoDB · SQL · Firebase  
-- Git · GitHub · VS Code · Notion
+**Frameworks & Tools**  
+Next.js · Node.js · Flask · Django  
+MongoDB · SQL · Firebase  
+Git · GitHub · VS Code · Notion
 
-### ML & Data
-- NumPy · Pandas · Scikit-learn · Matplotlib
+**ML & Data**  
+NumPy · Pandas · Scikit-learn · Matplotlib
 
 ---
 
