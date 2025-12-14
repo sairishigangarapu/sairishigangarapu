@@ -72,6 +72,13 @@ I value **correctness, clarity, and performance** over buzzwords.
 </p>
 
 ---
+## 📈 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=donut&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ## 🧠 Language Composition (Actual Usage)
 
