@@ -84,46 +84,66 @@ I value **correctness, clarity, and performance** over buzzwords.
 
 
 
-
 ## 🧰 Tech Stack
 
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+### 🧑‍💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge"/>
 </p>
 
-### 🧩 Frameworks & Runtime
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+---
+
+### 🧩 Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases & Backend Services
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+---
+
+### ☁️ Cloud & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloudflare-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hostinger-black?style=for-the-badge"/>
 </p>
 
-### 🤖 ML & Data
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+---
+
+### 🤖 ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLTK-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
 </p>
+
+---
 
 ### 🛠️ Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WSL-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge"/>
 </p>
 
 ---
@@ -137,14 +157,6 @@ I value **correctness, clarity, and performance** over buzzwords.
   <a href="https://github.com/sairishigangarapu">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sairishigangarapu/sairishigangarapu/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
