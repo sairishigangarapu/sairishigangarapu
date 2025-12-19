@@ -1,166 +1,88 @@
-<!-- ===== BANNER ===== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=480&lines=Full+Stack+Engineer;Distributed+Systems+Architect;AI+Workflow+Developer;CS+Undergrad+%40+PES+University" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Sai Rishi Gangarapu</h1>
-<h3 align="center">Software Developer • Backend & AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00E5FF&center=true&vCenter=true&width=480&lines=Software+Developer;CS+Undergraduate;Backend+%7C+AI+%7C+Fullstack"/>
-</p>
-
----
-
-## 👋 Who I Am (In Plain English)
-
-I’m a **Computer Science undergraduate at PES University** who enjoys building  
-**real, working systems** — not just demos.
-
-I care about:
-- Writing **clean backend logic**
-- Designing **scalable systems**
-- Using **AI/ML where it actually makes sense**
-- Building products that feel **fast, simple, and reliable**
-
-I like understanding *how things work under the hood* — from APIs and databases  
-to algorithms and system design.
-
-📩 **Email:** sairishigangarapu@gmail.com
-
----
-
-## 🛠️ What I’m Currently Building
-
-### 🔹 Signalist — Real-Time Stock Intelligence Platform
-Tracks market data and simulates stock baskets using AI signals.
-
-**Tech:** Next.js · MongoDB · Inngest · TradingView  
-**Focus:** async workflows, event-driven design, data pipelines
-
----
-
-### 🔹 Recommendation Engine
-A personalized recommendation system built from scratch.
-
-**Tech:** Python · NumPy · Scikit-learn  
-**Concepts:** Matrix Factorization, Bias Terms, SGD
-
----
-
-### 🔹 Contextual Re-Ranked Search System
-Improves search relevance using a mix of ML scoring and heuristic ranking.
-
-**Focus:** relevance, ranking logic, hybrid ML systems
-
----
-
-## 🧠 What I’m Strong At
-
-- Backend development & API design  
-- Data structures & algorithms  
-- Machine learning fundamentals  
-- Database modeling  
-- System design (actively improving)
-
-I value **correctness, clarity, and performance** over buzzwords.
-
----
-
-## 📊 GitHub at a Glance
+<h1 align="center">Hi, I'm Sai Rishi Gangarapu.</h1>
+<h3 align="center">Building scalable backends, real-time engines, and AI-driven workflows.</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Language Composition (Actual Usage)
-
-<p align="center">
-  <img width="95%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairishigangarapu&theme=tokyonight" />
-</p>
-
----
-
-
-
-## 🧰 Tech Stack
-
-### 🧑‍💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge"/>
-</p>
-
----
-
-### 🧩 Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge"/>
-</p>
-
----
-
-### ☁️ Cloud & Hosting
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloudflare-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hostinger-black?style=for-the-badge"/>
-</p>
-
----
-
-### 🤖 ML & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLTK-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
-</p>
-
----
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WSL-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sai-rishi-gangarapu-770a08321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/sai-rishi-gangarapu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sairishigangarapu">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://sairishigangarapu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:sairishigangarapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🚀 Engineering Philosophy
+I am a **Computer Science Undergraduate** focused on **Distributed Systems** and **Product Engineering**. 
+
+I don't just write code; I design systems. My work prioritizes:
+* **Performance:** Sub-100ms latency in real-time applications.
+* **Scalability:** Event-driven architectures using Pub/Sub and Queues.
+* **Clarity:** Clean, strictly-typed codebases that are easy to maintain.
+
+---
+
+## 🏆 Featured Projects
+
+| **Project** | **Description** | **Tech Stack** |
+| :--- | :--- | :--- |
+| [**♟️ Distributed Chess**](https://github.com/sairishigangarapu/Distributed-Chess-Platform) | **Real-Time Multiplayer Engine**<br>Architected a high-concurrency gaming platform featuring **sub-50ms latency**, Pub/Sub spectator mode, and persistent state management via WebSockets. | `Node.js` `Socket.io` `Redis` `MongoDB` |
+| [**📝 LiveDocs**](https://github.com/sairishigangarapu/LiveDocs) | **Collaborative Workspace Engine**<br>Engineered a Notion-style editor with **CRDT-based synchronization**, recursive document nesting, and optimistic UI updates for zero-latency typing. | `Next.js 14` `Firebase` `Clerk` `TypeScript` |
+| [**⚡ Digital Logic Platform**](https://github.com/sairishigangarapu/Digital-Logic-Platform) | **Boolean Minimization Engine**<br>Built a custom **recursive-descent parser** and Quine-McCluskey minimization algorithm to simplify complex boolean expressions. | `TypeScript` `AST Parsing` `Algorithms` |
+
+---
+
+## 🛠️ The Arsenal
+
+### **Backend & Systems**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Frontend & Interface**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### **AI & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <i>"Talk is cheap. Show me the code."</i>
 </p>
